@@ -10,9 +10,9 @@ prompt                  = no
 distinguished_name      = server_distinguished_name
 
 [ server_distinguished_name ]
-commonName             = www.karengranadero.com
+commonName             = www.youtdomain.com
 stateOrProvinceName     = Santa Cruz
 countryName            = BO
-emailAddress           = rodriguez7karen@gmail.com
-organizationName        = Karen Gueila Rodriguez Granadero
-organizationalUnitName   = Diplomado infraestructura TI
+emailAddress           = @gmail.com
+organizationName        = fullname
+organizationalUnitName   = Name company
